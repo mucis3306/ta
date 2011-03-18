@@ -1,0 +1,1 @@
+Hi, this has been a test of the emergency alert daemon. Have a nice day.
